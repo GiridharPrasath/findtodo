@@ -5,10 +5,10 @@ cd $KERNEL_REPO<br />
 chmod +x findtodokern.sh<br /> 
 ./findtodokern.sh<br /> 
  
-*2 YEARS LATER* 
+*2 YEARS LATER*<br />
 check todo.txt<br /> 
 ## TODOS 
   
 1.caching todos 
   
-2.multithreading maybe? 
+2.effects of multithreading maybe? 
